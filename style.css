@@ -1,0 +1,30 @@
+* {
+    font-family: "Oxygen", sans-serif;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+li a {
+    color: inherit;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #ed564b;
+}
+
+#select {
+    color: gray;
+    width: 100%;
+}
+
+select option {
+    color: gray;
+}
+
+outgroup {
+    color: black;
+}
